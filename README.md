@@ -15,6 +15,9 @@ I turn raw data into dashboards and decisions. Trained through the AMIT Learning
 | [Telco Churn Analysis](https://github.com/fares-roshdy/telco-churn-analysis) | Python, pandas | Practice project on the public IBM Telco dataset (7,043 customers): churn drivers by contract, tenure and service |
 | [HR Attrition Analysis](https://github.com/fares-roshdy/hr-attrition-analysis) | Python, pandas | Practice project on the public IBM HR dataset (1,470 employees): attrition by role, overtime, age and income |
 | [Chinook Music Store SQL](https://github.com/fares-roshdy/chinook-music-store-sql) | SQL | Practice project on the public Chinook database: 12 business questions with joins, subqueries and window functions |
+| [Northwind SQL Analysis](https://github.com/fares-roshdy/northwind-sql-analysis) | SQL | Practice project on the public Northwind database: 10 business questions with joins, CTEs, subqueries and window functions |
+| [Insurance Cost Analysis](https://github.com/fares-roshdy/insurance-cost-analysis) | Python, pandas, numpy | Practice project on a public medical insurance dataset: EDA and a linear regression baseline on what drives charges |
+| [Titanic Survival Analysis](https://github.com/fares-roshdy/titanic-survival-analysis) | Python, pandas | Practice project on the public Titanic dataset: survival by sex, class, age and family size |
 | [Costa Cafe Analytics Dashboard](https://github.com/fares-roshdy/costa-cafe-analytics-dashboard) | Power BI | Order tracking, payment-method analysis and shift performance across 1,313 orders and EGP 426,275 in sales |
 | [Revenue Analytics Platform](https://github.com/fares-roshdy/revenue-analytics-platform) | Tableau | Temporal trends, product performance and customer segmentation across $3.5M+ in revenue |
 | [Library Management System](https://github.com/fares-roshdy/library-management-system) | SQL Server, T-SQL | 5-table database, 4 stored procedures, 8+ complex queries, overdue-tracking views |
