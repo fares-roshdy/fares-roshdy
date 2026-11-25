@@ -21,8 +21,9 @@ I turn raw data into dashboards and decisions. Trained through the AMIT Learning
 
 ## 🔗 Find me
 
-- Portfolio: https://faresfolio-brehkes7.manus.space
 - LinkedIn: https://www.linkedin.com/in/fares-mostafa-8812a4387
+- Portfolio: https://faresfolio-brehkes7.manus.space
+- CV (PDF): https://drive.google.com/file/d/1A8899UpXWB5V_qmhu_G65bf1ys6j9NZ0/view
 - Email: fares.mostafa.r.m@gmail.com
 
 💼 Open to data analyst internships and entry-level roles in Cairo or remote.
